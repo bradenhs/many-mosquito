@@ -1,0 +1,11 @@
+{
+  "id": "b76597df-cfb2-46d5-b362-04c26d172d02",
+  "engine": {
+    "type": "docker",
+    "languageVariantId": "rust-1.60.0-0"
+  },
+  "avatar": "NiaaGIiaaaLiakkaa",
+  "preferredColor": "turquoise",
+  "gameId": "tic-tac-toe",
+  "name": "Many Mosquito"
+}

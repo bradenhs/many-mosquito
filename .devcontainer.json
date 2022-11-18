@@ -1,0 +1,15 @@
+// ⚠️ Only modify this file if you know what you're doing!
+{
+  "name": "Go 1.17",
+  "image": "ghcr.io/zilch/rust-1.60.0-0",
+  "extensions": [
+    "vadimcn.vscode-lldb",
+    "matklad.rust-analyzer",
+    "tamasfe.even-better-toml",
+    "serayuzgur.crates",
+    "/home/zilch/zilch-vscode-extension/zilch.vsix"
+  ],
+  "mounts": [
+    "source=zilch-vscode-extension,target=/home/zilch/zilch-vscode-extension,type=volume"
+  ]
+}
